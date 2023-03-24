@@ -1,3 +1,5 @@
+# ** This is only for refenrece purpose **
+
 # Pre-requisites
 * Java 1.8/1.11/1.15
 * Maven
@@ -24,5 +26,3 @@ Internally both the scripts run the following commands
  # How to execute the unit tests
 
  `mvn clean test` will execute the unit test cases.
-
-# ** This is only for refenrece purpose **.
